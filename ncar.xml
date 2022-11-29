@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<marcacao company="NCar"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+    xmlns="http://www.ncar.pt/marcacao"
+    xsi:schemaLocation="http://www.ncar.pt/marcacao marcacaoType.xsd">
+
+    <codigo_marcacao>154</codigo_marcacao>
+    <info_local>
+        <morada>
+            <cidade>Braga</cidade>
+            <cod_postal>4710-820</cod_postal>
+            <rua>Rua do Comércio, Adaúfe</rua>
+            <num_porta>8</num_porta>
+            <cordenadas>41°24'12.2"N 2°10'26.5"E</cordenadas>
+        </morada>
+        <contacto category="oficina">
+            <nome>ArtCar</nome>
+            <dono></dono>
+        </contacto>
+    </info_local>
+    <info_veiculo>
+        <marca>toyota</marca>
+        <modelo>yaris</modelo>
+        <combustivel>gasolina</combustivel>
+        <transmissao>manual</transmissao>
+        <ano>2004</ano>
+        <cavalos>260</cavalos>
+    </info_veiculo>
+
+</marcacao>
